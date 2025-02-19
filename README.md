@@ -14,7 +14,7 @@ git clone git@github.com:kunalwagh101/streams.git
 
 ```
 
-cd bootcamp_kunal
+cd streams
 
 ```
 
